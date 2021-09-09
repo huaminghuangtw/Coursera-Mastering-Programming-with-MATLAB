@@ -1,0 +1,39 @@
+# EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs
+# editorconfig.org
+
+
+# Use top-most EditorConfig file
+root = true
+
+
+[*]
+# Unix-style newlines at the bottom of every file
+end_of_line = lf
+
+charset = utf-8
+
+# Remove any whitespace characters preceding newline characters
+trim_trailing_whitespace = true
+
+insert_final_newline = false
+
+# Tab indentation
+indent_style = space
+indent_size = 4
+
+# Give operators breathing room, but not brackets
+spaces_around_operators = true
+spaces_around_brackets = false
+
+
+[.js]
+quote_type = single
+curly_bracket_next_line = false
+
+
+[.html]
+quote_type = double
+
+
+[*.{diff, md}]
+trim_trailing_whitespace = false
