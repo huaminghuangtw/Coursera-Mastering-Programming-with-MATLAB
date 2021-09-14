@@ -5,3 +5,4 @@
 # Binary files
 # ============
 *.mlapp    binary
+*.mat      binary

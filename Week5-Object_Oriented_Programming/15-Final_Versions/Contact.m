@@ -54,6 +54,5 @@ classdef Contact < LinkedNode       % Contact_v9
             fprintf('   Tel:     %s\n\n', node.PhoneNumber);
         end
     end
-
 end
         

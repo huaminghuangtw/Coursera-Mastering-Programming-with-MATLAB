@@ -35,5 +35,4 @@ classdef BusinessContact < Contact       % BusinessContact_v8
             fprintf('   Fax:     %s\n\n',node.Fax);
         end
     end
- 
 end
