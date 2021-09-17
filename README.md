@@ -50,3 +50,8 @@ The data obtained from the [Coronavirus Resource Center at the Johns Hopkins Uni
 #### How to run the program?
 - If you have MATLAB installed, open MATLAB and run the file `MyCovid19App.mlapp`
 - If you do not have MATLAB installed and use Windows on your machine, run the standalone executable `MyCovid19App.exe`
+
+---
+
+### Contact
+If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com.
