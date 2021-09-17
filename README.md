@@ -29,7 +29,9 @@ Instructor: [Mike Fitzpatrick](https://www.coursera.org/instructor/mikefitzpatri
 In the final project of this course, I used object-oriented programming techniques and developed a MATLAB application with professional graphical user interfaces (GUIs) that visualizes COVID-19 pandemic data from around the world.
 The data obtained from the [Coronavirus Resource Center at the Johns Hopkins University](https://coronavirus.jhu.edu/map.html) is available from the `covid_data.mat` file. (currently including data up till January 30th, 2021)
 
-
+<p align="center">
+  <img width="550" src="https://user-images.githubusercontent.com/43208378/133851704-f66f1b1a-3933-4ed8-bb36-a9be46748bce.png">
+</p>
 
 #### Features
 - Axes for displaying plots
