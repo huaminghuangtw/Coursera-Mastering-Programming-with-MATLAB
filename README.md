@@ -15,6 +15,8 @@ Have fun coding!😃
 
 > [Certificate of Completion](https://www.coursera.org/account/accomplishments/certificate/D44X4J9UFN9X)
 
+---
+
 ### Overview
 This course is the second part of the specialization [MATLAB Programming for Engineers and Scientists Specialization](https://www.coursera.org/specializations/matlab-programming-engineers-scientists), offered by Vanderbilt University.
 It covers more advanced MATLAB programming concepts such as **recursion**, **vectorization**, **function handles**, **algorithm complexity and efficiency**, **error handling**, etc..
