@@ -27,7 +27,7 @@ Instructor: [Mike Fitzpatrick](https://www.coursera.org/instructor/mikefitzpatri
 ### Final Project
 
 In the final project of this course, I used object-oriented programming techniques and developed a MATLAB application with professional graphical user interfaces (GUIs) that visualize COVID-19 pandemic data from around the world.
-I did enjoy doing this project as it's a good chance to apply new skills learned to a real world problem. :)
+I did enjoy doing this project as it's a good chance to apply newly learned skills to a real world problem. :)
 The data obtained from the [Coronavirus Resource Center at the Johns Hopkins University](https://coronavirus.jhu.edu/map.html) is available from the `covid_data.mat` file. (currently including data up till January 30th, 2021)
 
 <p align="center">
@@ -54,4 +54,4 @@ The data obtained from the [Coronavirus Resource Center at the Johns Hopkins Uni
 ---
 
 ### Contact
-If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com.
+If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/hmhuang0501/Coursera-Mastering-Programming-with-MATLAB/compare) or an [issue](https://github.com/hmhuang0501/Coursera-Mastering-Programming-with-MATLAB/issues/new) in this repository.
