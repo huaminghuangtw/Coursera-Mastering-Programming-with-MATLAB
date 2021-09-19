@@ -38,8 +38,8 @@ The data obtained from the [Coronavirus Resource Center at the Johns Hopkins Uni
 
 #### Features
 - Axes for displaying plots
-- List box for countries
-- List box for states/regions
+- A list box for countries
+- A list box for states/regions
 - A widget to select what data (Cases, Deaths or Both) to plot
 - A widget to display the option for cumulative or daily data
 - A widget to set the number of days for the moving average of the data (from 1 to 15)
