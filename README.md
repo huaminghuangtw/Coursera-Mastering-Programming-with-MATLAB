@@ -5,15 +5,13 @@ Coursera-Mastering-Programming-with-MATLAB
 <tr>
 <td>
 A collection of <i>Course Files</i>, <i>Programming Assignments</i> and <i>Final Project</i> for <a href="https://www.coursera.org/learn/advanced-matlab-programming?specialization=matlab-programming-engineers-scientists">Mastering Programming with MATLAB</a>.
-I took this online course on Coursera platform during August-September, 2021.
-Please do not simply copy the code as your own work.
-Remember that one can only learn programming by doing it.
-Have fun coding!😃
+I took this online course on Coursera platform during August-September, 2021. (<a href="https://www.coursera.org/account/accomplishments/certificate/D44X4J9UFN9X">Certificate of Completion</a>)
 </td>
 </tr>
 </table>
 
-> [Certificate of Completion](https://www.coursera.org/account/accomplishments/certificate/D44X4J9UFN9X)
+> DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. Remember that one can only learn programming by doing it.
+Have fun coding!😃
 
 ---
 
