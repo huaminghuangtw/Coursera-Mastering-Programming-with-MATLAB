@@ -1,6 +1,8 @@
 Coursera-Mastering-Programming-with-MATLAB
 ==========================================
 
+Instructor: [Mike Fitzpatrick](https://www.coursera.org/instructor/mikefitzpatrick)
+
 <table>
 <tr>
 <td>
@@ -18,8 +20,6 @@ I took this online course on Coursera platform during August-September, 2021. (<
 This course is the second part of the specialization [MATLAB Programming for Engineers and Scientists Specialization](https://www.coursera.org/specializations/matlab-programming-engineers-scientists), offered by Vanderbilt University.
 It covers more advanced MATLAB programming concepts such as **recursion**, **vectorization**, **function handles**, **algorithm complexity and efficiency**, **error handling**, etc..
 It also presents many powerful features of MATLAB including **object-oriented programming**, **graphical user interface design environment (App Designer)** and **Live Scripts**.
-
-Instructor: [Mike Fitzpatrick](https://www.coursera.org/instructor/mikefitzpatrick)
 
 ---
 
