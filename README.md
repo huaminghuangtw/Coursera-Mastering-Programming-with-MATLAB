@@ -14,8 +14,6 @@ I took this online course on Coursera platform during August-September, 2021. (<
 
 > DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. The author reserves all rights but does not be liable in any event (e.g., plagiarism) caused by the use of the program. Remember that one can only learn programming by doing it. Have fun coding!😃
 
----
-
 ### Overview
 This course is the second part of the specialization [MATLAB Programming for Engineers and Scientists Specialization](https://www.coursera.org/specializations/matlab-programming-engineers-scientists), offered by Vanderbilt University.
 It covers more advanced MATLAB programming concepts such as **recursion**, **vectorization**, **function handles**, **algorithm complexity and efficiency**, **error handling**, etc..
@@ -53,4 +51,4 @@ The data obtained from the [Coronavirus Resource Center at the Johns Hopkins Uni
 ---
 
 ### Contact
-If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/hmhuang0501/Coursera-Mastering-Programming-with-MATLAB/compare) or an [issue](https://github.com/hmhuang0501/Coursera-Mastering-Programming-with-MATLAB/issues/new) in this repository.
+If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/huaminghuangtw/Coursera-Mastering-Programming-with-MATLAB/compare) or an [issue](https://github.com/huaminghuangtw/Coursera-Mastering-Programming-with-MATLAB/issues/new) in this repository.
